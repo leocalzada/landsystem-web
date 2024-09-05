@@ -10,7 +10,7 @@ The Environmental Disturbances in the Greater Yucatán (EDGY) project is a joint
 
 Current research efforts include understanding how land use and biophysical properties combine to inform tropical forest resilience and regeneration following disturbances. This objective includes multi-scalar investigation of 1) regional mapping and monitoring of tropical secondary forest using remote sensing and spatial modeling 2) individual- and plot-level biomass recovery analysis 3) feedback between land use and forest ecosystem dynamics through participatory mapping and community focus groups. 
 
-::: {layout-nrow=1}
+::: {layout-ncol=2 layout-valign="center"}
 ![](bacalar.jpg)
 ![](corridor.jpg)
 :::

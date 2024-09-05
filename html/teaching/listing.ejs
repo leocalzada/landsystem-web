@@ -4,7 +4,7 @@
     <div class="course-entry">
         <div class="logo">
             <% if (course.url) { %>
-            <a href="<%= course.url %>" target="_blank"><img src="<%= course.logo %>" alt="<%= course.title %>" title="<%= course.title %>" /></a>
+            <a href="<%= course.url %>"><img src="<%= course.logo %>" alt="<%= course.title %>" title="<%= course.title %>" /></a>
             <% } else { %>
             <img src="<%= course.logo %>" alt="<%= course.title %>" title="<%= course.title %>" />
             <% } %>
@@ -12,7 +12,7 @@
         <div class="body">
             <p class="course-title">
                 <% if (course.url) { %>
-                <a href="<%= course.url %>" target="_blank"><%= course.title %></a> 
+                <a href="<%= course.url %>"><%= course.title %></a> 
                 <% } else { %>
                 <%= course.title %> 
                 <% } %>
