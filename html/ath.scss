@@ -758,3 +758,18 @@ pre.text, pre.sourceCode, .cell-output pre {
   color: #888888;
   font-style: italic;
 }
+
+
+.bs-callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+}
+.bs-callout-info {
+  border-left-color: #5bc0de;
+}
+.bs-callout-info h4 {
+  color: #5bc0de;
+}

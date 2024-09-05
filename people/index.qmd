@@ -27,15 +27,15 @@ listing:
     sort: last
     type: grid
     fields: [title, subtitle, image, education]
-  - id: alumni
-    include: 
-      people_group: "alumni"
-    exclude:
-      external: true
-    template: ../html/people/alumni-box.ejs
-    sort: last
-    type: grid
-    fields: [title, subtitle, image, education, altsubtitle, alteducation]
+  # - id: alumni
+  #   include: 
+  #     people_group: "alumni"
+  #   exclude:
+  #     external: true
+  #   template: ../html/people/alumni-box.ejs
+  #   sort: last
+  #   type: grid
+  #   fields: [title, subtitle, image, education, altsubtitle, alteducation]
 page-layout: full
 ---
 
@@ -67,9 +67,18 @@ page-layout: full
 
 ## Alumni
 
+Alana M. Rader (2021) | https://alanarader.weebly.com/
 
+Ramiro Puc Kauil - PhD (2019) | ramiro.selvastropicales@gmail.com
 
-::: {#alumni}
-:::
+Gabriella Ulloa - Rutgers MA (2018) | gabby.ulloa.contador@gmail.com
 
-:::
+Dr. Tabby Fenn - PhD (2018) | tfenn@rutgers.edu
+
+Dr. Diya Paul - PhD (2018) | diya.paul@rutgers.edu
+
+Andrea Leon Parra (2017) - visiting Fulbright scholar | andrealep@gmail.com
+​
+Dr. Irene Zager - PhD (2014) | izager@eden.rutgers.edu
+
+Joshua Randall - MS | joshua.randall@rutgers.edu

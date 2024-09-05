@@ -44,7 +44,7 @@ website:
       - text: "People"
         href: people/index.qmd
       - text: "Projects"
-        href: "teaching/index.qmd"
+        href: projects/index.qmd
       - text: "Publications"
         file: research/index.qmd
       - text: "News"

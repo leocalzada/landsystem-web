@@ -4,7 +4,7 @@ sidebar: false
 toc: false
 page-layout: full
 format: html
-
+title-block-header: false
 listing:
   - id: recent-blog-listing
     contents:

@@ -24,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="..//files/favicon.ico" rel="icon">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-<script src="../site_libs/quarto-contrib/iconify-2.0.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../..//files/favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-contrib/iconify-2.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,82 +70,18 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-university','listing-number','listing-url','listing-logo','listing-semester',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-title","listing-description","listing-university","listing-number","listing-url","listing-logo","listing-semester"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-<style>
-
-      .quarto-title-block .quarto-title-banner {
-        background: #e3123c;
-      }
-</style>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">RUTGERS LAND SYSTEMS SCIENCE</span>
     </a>
   </div>
@@ -158,27 +92,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../people/index.html"> 
+    <a class="nav-link" href="../../people/index.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../teaching/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../projects/index.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research/index.html"> 
+    <a class="nav-link" href="../../research/index.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../news/index.html"> 
+    <a class="nav-link" href="../../news/index.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../contact/index.html"> 
+    <a class="nav-link" href="../../contact/index.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -195,160 +129,54 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Projects</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
-
-
-
-
-<div id="listing-projects" class="quarto-listing quarto-listing-container-custom">
-<div class="teaching">
-    
-    <div class="course-entry">
-        <div class="logo">
-            
-            <a href="territorial/index.qmd" target="_blank"><img src="logos/corridor.jpg" alt="Territorial Dynamics in the Calakmul Sian Ka'an Corridor" title="Territorial Dynamics in the Calakmul Sian Ka'an Corridor"></a>
-            
-        </div>
-        <div class="body">
-            <p class="course-title">
-                
-                <a href="territorial/index.qmd" target="_blank">Territorial Dynamics in the Calakmul Sian Ka'an Corridor</a> 
-                
-            </p>
-            <p class="course-details">
-                <span class="course-number">Mexico</span> | 
-                <span class="course-university">Rutgers University, Universidad Nacional Autónoma de México</span>
-                
-            </p>
-            <p class="course-description">The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. </p>
-
-            <ul class="course-semesters">
-                
-                
-                <li><a href="territorial/index.qmd"><i class="fa-solid fa-book"></i> See more</a></li>
-                
-                
-            </ul>
-        </div>
-    </div>
-    
-    <div class="course-entry">
-        <div class="logo">
-            
-            <a href="../teaching/yucatan/index.html" target="_blank"><img src="logos/hurricane.jpg" alt="Environmental Disturbance in the Greater Yucatan" title="Environmental Disturbance in the Greater Yucatan"></a>
-            
-        </div>
-        <div class="body">
-            <p class="course-title">
-                
-                <a href="../teaching/yucatan/index.html" target="_blank">Environmental Disturbance in the Greater Yucatan</a> 
-                
-            </p>
-            <p class="course-details">
-                <span class="course-number">Mexico</span> | 
-                <span class="course-university">Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR)</span>
-                
-            </p>
-            <p class="course-description">The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. </p>
-
-            <ul class="course-semesters">
-                
-                
-                <li><a href="../teaching/yucatan/index.html"><i class="fa-solid fa-book"></i> See more</a></li>
-                
-                
-            </ul>
-        </div>
-    </div>
-    
-    <div class="course-entry">
-        <div class="logo">
-            
-            <a href="colombia/index.qmd" target="_blank"><img src="logos/colombia.jpg" alt="Mapping Landscape Configuration in the Orinoquía, Colombia: The potential for land change in a post-conflict era." title="Mapping Landscape Configuration in the Orinoquía, Colombia: The potential for land change in a post-conflict era."></a>
-            
-        </div>
-        <div class="body">
-            <p class="course-title">
-                
-                <a href="colombia/index.qmd" target="_blank">Mapping Landscape Configuration in the Orinoquía, Colombia: The potential for land change in a post-conflict era.</a> 
-                
-            </p>
-            <p class="course-details">
-                <span class="course-number">Colombia</span> | 
-                <span class="course-university">Rutgers University, Universidad Nacional (Bogotá Colombia)</span>
-                
-            </p>
-            <p class="course-description">The project examines how alternating periods of war and peace directly effect landscapes, through shifts in natural resource availability, the opening of new frontiers, and access to diverse markets.</p>
-
-            <ul class="course-semesters">
-                
-                
-                <li><a href="colombia/index.qmd"><i class="fa-solid fa-book"></i> See more</a></li>
-                
-                
-            </ul>
-        </div>
-    </div>
-    
-    <div class="course-entry">
-        <div class="logo">
-            
-            <a href="ecuador/index.qmd" target="_blank"><img src="logos/ecuador.jpg" alt="The Spontaneous Spread of Silvopastoral Landscapes in the Ecuadorian Amazon" title="The Spontaneous Spread of Silvopastoral Landscapes in the Ecuadorian Amazon"></a>
-            
-        </div>
-        <div class="body">
-            <p class="course-title">
-                
-                <a href="ecuador/index.qmd" target="_blank">The Spontaneous Spread of Silvopastoral Landscapes in the Ecuadorian Amazon</a> 
-                
-            </p>
-            <p class="course-details">
-                <span class="course-number">Ecuador</span> | 
-                <span class="course-university">Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR)</span>
-                
-            </p>
-            <p class="course-description">this study explores the possibility that small scale cattle ranchers could benefit from payments for environmental services, in particular payments for carbon sequestration in silvopastoral systems</p>
-
-            <ul class="course-semesters">
-                
-                
-                <li><a href="ecuador/index.qmd"><i class="fa-solid fa-book"></i> See more</a></li>
-                
-                
-            </ul>
-        </div>
-    </div>
-    
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Environmental Disturbance in the Greater Yucatan</h1>
 </div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="column-page">
+<p>The Environmental Disturbances in the Greater Yucatán (EDGY) project is a joint effort of Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR). Our project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. We employ a combination of methods including, but not limited to, remote sensing analysis, ecological field assessments, household- and community-level interviews and surveys.</p>
+<p><img src="hurricanemap_orig.png" class="img-fluid"></p>
+<p>Current research efforts include understanding how land use and biophysical properties combine to inform tropical forest resilience and regeneration following disturbances. This objective includes multi-scalar investigation of 1) regional mapping and monitoring of tropical secondary forest using remote sensing and spatial modeling 2) individual- and plot-level biomass recovery analysis 3) feedback between land use and forest ecosystem dynamics through participatory mapping and community focus groups.</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<p><img src="bacalar.jpg" class="img-fluid"> <img src="corridor.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</div>
+<section id="project-support" class="level2">
+<h2 class="anchored" data-anchor-id="project-support">Project Support</h2>
+<!-- ::: {layout-ncol=3} -->
+<p><img src="gordonbettymoore.jpg" class="img-fluid" alt="Image"> <img src="nasa.jpg" class="img-fluid" alt="Image 2"> <img src="nsf.png" class="img-fluid" alt="Image 3"></p>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

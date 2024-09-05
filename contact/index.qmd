@@ -1,16 +1,21 @@
 ---
 title: "Laura Schneider"
-image: avatar.jpg
+image: "../people/schneider-laura/avatar.jpg"
 about: 
   id: contact
   template: solana
   image-shape: round
-  image: avatar.jpg
+  image: "../people/schneider-laura/avatar.jpg"
 ---
+::: {.column-body .center-text .bs-callout .bs-callout-info}
+
+### We always like to hear from interested individuals. 
+
+If you would like more information on how to be involved with the Land Systems Science Research Group, or Rutgers Geography, please contact me with your research interests and questions.
+
+:::
 
 :::{#contact}
-
-We always like to hear from interested individuals. If you would like more information on how to be involved with the Land Systems Science Research Group, or Rutgers Geography, please contact me with your research interests and questions.
 
 #### {{< fa envelope >}} &nbsp; laschnei@geography.rutgers.edu
 

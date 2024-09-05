@@ -4,15 +4,15 @@
     "items": []
   },
   {
-    "listing": "/teaching/index.html",
-    "items": []
-  },
-  {
     "listing": "/people/index.html",
     "items": [
       "/people/schneider-laura/index.html",
       "/people/calzada-leonardo/index.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
   },
   {
     "listing": "/research/index.html",

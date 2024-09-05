@@ -24,6 +24,9 @@ about:
     - text: Google Scholar
       icon: mortarboard 
       href: https://scholar.google.com/citations?user=RcAWFTsAAAAJ&hl=en
+engine: knitr
+resources:
+  - "Laura_Schneider_CV_Aug2021.pdf"
 cv:
   pdf: "Laura_Schneider_CV_Aug2021.pdf"
 ---
@@ -38,17 +41,7 @@ I am a geographer whose research intersects the fields of land systems science a
 ## Affiliation
 {{< meta education >}}
 
-<br>
-
 :::
-```{=html}
-<p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
-  </a>
-</p>
-```
-
 ## Selected Publications
 
 Armenteras, D., L. Schneider and L. Davalos. 2019. Fires in protected areas reveal unforeseen costs for Colombian peace. Nature Ecology and Evolution, https://rdcu.be/bb0aX
@@ -72,3 +65,34 @@ Vandecar, K., D. Lawrence, D. Richards, L. Schneider, J. Rogan and B. Schmook. 2
 Rogan J., L. Schneider, Z. Christman, M. Millones, D. Lawrence and B. Schmook. 2011. Hurricane Disturbance Mapping using MODIS EVI Data in the South-Eastern Yucatán, Mexico.  Remote Sensing Letters 2(3): 259-267
 
 Schneider L.C. and N. Fernando. An untidy cover: Invasion of Bracken Fern in the shifting cultivation systems of Southern Yucatán, Mexico. Biotropica 42(1): 41-48.
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```
+
