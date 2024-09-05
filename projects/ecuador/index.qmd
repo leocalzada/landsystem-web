@@ -15,7 +15,7 @@ With the continuing decline in the global extent of tropical forests, agricultur
 
 
 :::
-::: {.g-col-6}
+::: {.g-col-6 .center-text}
 ![Without Trees](withouttrees_orig.jpg)
 
 

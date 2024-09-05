@@ -8,10 +8,7 @@ title: "Mapping Landscape Configuration in the Orinoquía, Colombia: The potenti
 
 Influenced by Dr. Laura Schneider's work as a Fulbright Distinguished Chair at Universidad Nacional, Bogotá Colombia, this project examines how alternating periods of war and peace directly effect landscapes, through shifts in natural resource availability, the opening of new frontiers, and access to diverse markets. Historically, the Orinoquía region in Colombia has been the center of Colombian conflict between the state and guerrilla groups, subsequently promoting biological conservation of biodiverse tropical forest through limited access to land and agricultural development. With the rise of a new peace treaty in Colombia, and conflicting promises for frontier development and resource use, the tropical forests and potential frontier of the Orinoquía region provide the unique opportunity to analyze periods of war and peace as drivers of land cover change 
 
-::: {layout-valign="center" .grid}
-
 ![](fire.png)
-:::
 :::
 
 ## Project Support
