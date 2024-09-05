@@ -1,0 +1,26 @@
+---
+title: |-
+  Modeling land-use change in the Ipswich watershed, Massachusetts,
+                 {USA}
+date: '2001-01-01'
+author:
+- name:
+  - Laura Schneider
+  - C Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Land Use
+pub-info:
+  reference: 'Schneider, L. C., &amp; Pontius, R. G. (2001). Modeling land-use change in the Ipswich watershed, Massachusetts, USA. <em>Agriculture, Ecosystems &amp; Environment</em>, <em>85</em>(1&ndash;3), 83&ndash;94.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1016/s0167-8809(01)00189-x
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

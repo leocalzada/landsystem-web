@@ -1,0 +1,22 @@
+---
+title: |-
+  Land-Change Science: The Contributions of Latin Americanist
+                 Geographers to Global Environmental Change Research
+date: 2002-01-01
+author:
+- name:
+  - L Vadjunec
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Land Change Science
+pub-info:
+  reference: "Vadjunec, L, Schneider L, and Turner B L. (2002).Land‐Change Science: The Contributions of Latin Americanist Geographers to Global Environmental Change Research. In Latin America 21st Century: Challenges and Solutions. G. Knapp Ed. University of Texas Press, pp 171‐206."
+  links:
+haiku:
+- ''
+- ''
+- ''
+
+---

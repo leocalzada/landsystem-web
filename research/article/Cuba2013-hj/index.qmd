@@ -1,0 +1,27 @@
+---
+title: |-
+  Modelling dry season deciduousness in Mexican Yucatán forest
+                 using {MODIS} {EVI} data ({2000–2011})
+date: '2013-01-01'
+author:
+- name: Nicholas Cuba
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - MODIS
+  - Seasonality
+  - Yucatan
+  - Tropical dry forest
+pub-info:
+  reference: 'Cuba, N., Rogan, J., Christman, Z., Williams, C. A., Schneider, L. C., Lawrence, D., &amp; Millones, M. (2013). Modelling dry season deciduousness in Mexican Yucat&aacute;n forest using MODIS EVI data (2000&ndash;2011). <em>GIScience and Remote Sensing</em>, <em>50</em>(1), 26&ndash;49.'
+  links:
+  - name: Final version
+    url: https://doi.org/10.1080/15481603.2013.778559
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

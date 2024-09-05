@@ -1,0 +1,30 @@
+---
+title: |-
+  Plant Invasions in an Agricultural Frontier: Linking satellite, ecological and household survey data
+date: 2008-01-01
+author:
+
+- name: Laura Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+- name: Yelena Ogneva-Himmelberger
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Tropical forest
+  - Frontiers
+  - Landscapes
+pub-info:
+  reference: "Schneider L. (2008). Plant Invasions in an Agricultural Frontier: Linking satellite, ecological and household survey data. In Land Change Science in the Tropics: Changing Agricultural Landscapes, A. Millington and W. Jepson eds. Kluwer publishers."
+  links:
+  - name: Final version
+    url: 'https://academic.oup.com/book/40626'
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

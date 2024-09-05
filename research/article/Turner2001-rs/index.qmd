@@ -1,0 +1,27 @@
+---
+title: |-
+  Deforestation in the southern Yucatán peninsular region: an
+                 integrative approach
+date: '2001-01-01'
+author:
+- name:
+  - B Turner
+  - L II
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Deforestation
+  - Yucatan
+pub-info:
+  reference: 'Turner, B. L., II, Villar, S. C., Foster, D., Geoghegan, J., Keys, E., Klepeis, P., Lawrence, D., Mendoza, P. M., Manson, S., Ogneva-Himmelberger, Y., Plotkin, A. B., Salicrup, D. P., Chowdhury, R. R., Savitsky, B., Schneider, L., Schmook, B., &amp; Vance, C. (2001). Deforestation in the southern Yucat&aacute;n peninsular region: an integrative approach. <em>Forest Ecology and Management</em>, <em>154</em>(3), 353&ndash;370.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1016/s0378-1127(01)00508-4
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

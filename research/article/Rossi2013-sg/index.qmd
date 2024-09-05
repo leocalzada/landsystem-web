@@ -1,0 +1,26 @@
+---
+title: |-
+  Mapping forest damage in northern Nicaragua after Hurricane Felix
+                 (2007) using {MODIS} enhanced vegetation index data
+date: '2013-01-01'
+author:
+- name: Esteban Rossi
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Nicaragua
+  - MODIS
+  - Hurricane
+pub-info:
+  reference: 'Rossi, E., Rogan, J., &amp; Schneider, L. (2013). Mapping forest damage in northern Nicaragua after Hurricane Felix (2007) using MODIS enhanced vegetation index data. <em>GIScience &amp; Remote Sensing</em>, <em>50</em>(4), 385&ndash;399.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1080/15481603.2013.820066
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

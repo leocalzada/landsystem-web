@@ -1,0 +1,39 @@
+- title: "Territorial Dynamics in the Calakmul Sian Ka'an Corridor"
+  description: "The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. "
+  university: "Rutgers University, Universidad Nacional Autónoma de México"
+  number: Mexico
+  url: territorial/index.qmd
+  logo: logos/corridor.jpg
+  semester:
+  - name: 'See more'
+    url: territorial/index.qmd
+
+- title: "Environmental Disturbance in the Greater Yucatan"
+  description: "The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. "
+  university: "Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR)"
+  number: Mexico
+  url: yucatan/index.qmd
+  logo: logos/hurricane.jpg
+  semester:
+  - name: 'See more'
+    url: yucatan/index.qmd
+
+- title: "Mapping Landscape Configuration in the Orinoquía, Colombia: The potential for land change in a post-conflict era." 
+  description: "The project examines how alternating periods of war and peace directly effect landscapes, through shifts in natural resource availability, the opening of new frontiers, and access to diverse markets."
+  university: Rutgers University, Universidad Nacional (Bogotá Colombia)
+  number: Colombia
+  url: colombia/index.qmd
+  logo: logos/colombia.jpg
+  semester:
+  - name: 'See more'
+    url: colombia/index.qmd
+
+- title: "The Spontaneous Spread of Silvopastoral Landscapes in the Ecuadorian Amazon"
+  description: "this study explores the possibility that small scale cattle ranchers could benefit from payments for environmental services, in particular payments for carbon sequestration in silvopastoral systems"
+  university: Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR)
+  number: Ecuador
+  url: ecuador/index.qmd
+  logo: logos/ecuador.jpg
+  semester:
+  - name: 'See more'
+    url: ecuador/index.qmd

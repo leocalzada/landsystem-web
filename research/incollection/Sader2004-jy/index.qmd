@@ -1,0 +1,25 @@
+---
+title: Forest change and human driving forces in central America
+date: 2004-01-01
+author:
+- name:
+  - Steven Sader
+  - A Sader
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Deforestation
+  - Tropical forest
+pub-info:
+  reference: 'Sader S S, Chowdhury R, Schneider L, and Turner, B. (2004). Forest Change and human driving forces in Central America. In Land Change Science: Monitoring, and Understanding Trajectories of Change on Earthʹs surface. Gutman et al. eds. Kluwer Publishers. Pages: 57‐76'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1007/978-1-4020-2562-4_4
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

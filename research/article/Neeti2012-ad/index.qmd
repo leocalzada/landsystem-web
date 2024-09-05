@@ -1,0 +1,26 @@
+---
+title: |-
+  Mapping seasonal trends in vegetation using {AVHRR}-{NDVI} time
+                 series in the Yucatán Peninsula, Mexico
+date: '2012-01-01'
+author:
+- name: Neeti Neeti
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Yucatan
+  - Seasonality
+  - NDVI
+pub-info:
+  reference: 'Neeti, N., Rogan, J., Christman, Z., Eastman, J. R., Millones, M., Schneider, L., Nickl, E., Schmook, B., Turner, B. L., II, &amp; Ghimire, B. (2012). Mapping seasonal trends in vegetation using AVHRR-NDVI time series in the Yucat&aacute;n Peninsula, Mexico. <em>Remote Sensing Letters</em>, <em>3</em>(5), 433&ndash;442.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1080/01431161.2011.616238
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

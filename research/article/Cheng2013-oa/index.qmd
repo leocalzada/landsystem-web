@@ -1,0 +1,26 @@
+---
+title: |-
+  Evaluating {MODIS} active fire products in subtropical Yucatán
+                 forest
+date: '2013-01-01'
+author:
+- name: D Cheng
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Fires
+  - MODIS
+  - Yucatan
+pub-info:
+  reference: 'Cheng, D., Rogan, J., Schneider, L., &amp; Cochrane, M. (2013). Evaluating MODIS active fire products in subtropical Yucat&aacute;n forest. <em>Remote Sensing Letters</em>, <em>4</em>(5), 455&ndash;464.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1080/2150704x.2012.749360
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

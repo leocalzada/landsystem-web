@@ -1,0 +1,29 @@
+---
+title: |-
+  The spontaneous emergence of silvo-pastoral landscapes in the
+                 Ecuadorian Amazon: patterns and processes
+date: '2015-01-01'
+author:
+- name:
+  - Amy Lerner
+  - M Lerner
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Landscape
+  - Silvo-pastoral
+  - Ecuadro
+  - Amazon
+pub-info:
+  reference: 'Lerner, A. M., Rudel, T. K., Schneider, L. C., McGroddy, M., Burbano, D. V., &amp; Mena, C. F. (2015). The spontaneous emergence of silvo-pastoral landscapes in the Ecuadorian Amazon: patterns and processes. <em>Regional Environmental Change</em>, <em>15</em>(7), 1421&ndash;1431.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1007/s10113-014-0699-4
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,27 @@
+---
+title: |-
+  High mortality for rare species following hurricane disturbance
+                 in the southern Yucatán
+date: '2011-01-01'
+author:
+- name:
+  - Karen Vandecar
+  - L Vandecar
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Hurricane
+  - Yucatan
+pub-info:
+  reference: 'Vandecar, K. L., Lawrence, D., Richards, D., Schneider, L., Rogan, J., Schmook, B., &amp; Wilbur, H. (2011). High mortality for rare species following hurricane disturbance in the southern Yucat&aacute;n. <em>Biotropica</em>, <em>43</em>(6), 676&ndash;684.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1111/j.1744-7429.2011.00756.x
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

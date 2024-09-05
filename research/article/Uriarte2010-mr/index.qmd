@@ -1,0 +1,23 @@
+---
+title: Land transitions in the tropics:Introduction and Synthesis
+date: '2010-01-01'
+author:
+- name: M Uriarte
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Tropics
+  - Land transition
+pub-info:
+  reference: 'Uriarte, M., Schneider, L., &amp; Rudel, T. (2010). Land transitions in the tropics:Introduction and Synthesis. <em>Biotropica</em>, <em>42</em>(1), 1&ndash;2.'
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

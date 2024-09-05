@@ -1,0 +1,28 @@
+---
+title: |-
+  Carbon stocks in silvopastoral systems: A study from four
+                 communities in southeastern Ecuador
+date: '2015-01-01'
+author:
+- name:
+  - Megan McGroddy
+  - E McGroddy
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Silvopastoral
+  - Ecuador
+  - 
+pub-info:
+  reference: 'McGroddy, M. E., Lerner, A. M., Burbano, D. V., Schneider, L. C., &amp; Rudel, T. K. (2015). Carbon stocks in silvopastoral systems: A study from four communities in southeastern Ecuador. <em>Biotropica</em>, <em>47</em>(4), 407&ndash;415.'
+  links:
+  - name: Final version
+    url: https://onlinelibrary.wiley.com/doi/10.1111/btp.12225
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

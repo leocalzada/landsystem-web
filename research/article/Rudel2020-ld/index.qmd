@@ -1,0 +1,29 @@
+---
+title: |-
+  Whither the forest transition? Climate change, policy responses,
+                 and redistributed forests in the twenty-first century
+date: '2020-01-01'
+author:
+- name:
+  - Thomas Rudel
+  - K Rudel
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: 
+- Forest gains
+- Forest transitions
+- Latecomer effects
+- Tree plantations
+pub-info:
+  reference: 'Rudel, T. K., Meyfroidt, P., Chazdon, R., Bongers, F., Sloan, S., Grau, H. R., Van Holt, T., &amp; Schneider, L. (2020). Whither the forest transition? Climate change, policy responses, and redistributed forests in the twenty-first century. <em>Ambio</em>, <em>49</em>(1), 74&ndash;84.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1007/s13280-018-01143-0
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

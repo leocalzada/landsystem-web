@@ -1,0 +1,26 @@
+---
+title: |-
+  Damage patterns after Hurricane Dean in the southern Yucatán: Has
+                human activity resulted in more resilient forests?
+date: '2013-01-01'
+author:
+- name: M McGroddy
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Hurricane
+  - Resilience
+  - Tropical forest
+pub-info:
+  reference: 'McGroddy, M., Lawrence, D., Schneider, L., Rogan, J., Zager, I., &amp; Schmook, B. (2013). Damage patterns after Hurricane Dean in the southern Yucat&aacute;n: Has human activity resulted in more resilient forests? <em>Forest Ecology and Management</em>, <em>310</em>, 812&ndash;820.'
+  links:
+  - name: Final version
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0378112713006415
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,28 @@
+---
+title: |-
+  An untidy cover: Invasion of bracken fern in the shifting
+                 cultivation systems of Southern Yucatán, Mexico
+date: '2010-01-01'
+author:
+- name:
+  - Laura Schneider
+  - C Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Yucatan
+  - Invasive species
+  - Shifting agriculture
+pub-info:
+  reference: 'Schneider, L. C., &amp; Fernando, D. N. (2010). An untidy cover: Invasion of bracken fern in the shifting cultivation systems of Southern Yucat&aacute;n, Mexico. <em>Biotropica</em>, <em>42</em>(1), 41&ndash;48.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1111/j.1744-7429.2009.00569.x
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

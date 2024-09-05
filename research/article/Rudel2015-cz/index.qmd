@@ -1,0 +1,30 @@
+---
+title: |-
+  {LivestockPlus}: Forages, sustainable intensification, and food
+                 security in the tropics
+date: '2015-01-01'
+author:
+- name:
+  - Thomas Rudel
+  - K Rudel
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: 
+- Forages
+- Livestock
+- Livestock plus
+- Sustainable intensification
+- Tropics
+pub-info:
+  reference: 'Rudel, T. K., Paul, B., White, D., Rao, I. M., Van Der Hoek, R., Castro, A., Boval, M., Lerner, A., Schneider, L., &amp; Peters, M. (2015). LivestockPlus: Forages, sustainable intensification, and food security in the tropics. <em>Ambio</em>, <em>44</em>(7), 685&ndash;693'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1007/s13280-015-0676-2
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

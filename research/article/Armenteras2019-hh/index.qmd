@@ -1,0 +1,26 @@
+---
+title: |-
+  Fires in protected areas reveal unforeseen costs of Colombian
+                 peace
+date: '2019-01-01'
+author:
+- name: Dolors Armenteras
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Protected areas
+  - Fires
+  - Colombia
+pub-info:
+  reference: 'Armenteras, D., Schneider, L., &amp; D&aacute;valos, L. M. (2019). Fires in protected areas reveal unforeseen costs of Colombian peace. <em>Nature Ecology &amp; Evolution</em>, <em>3</em>(1), 20&ndash;23.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1038/s41559-018-0727-8
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

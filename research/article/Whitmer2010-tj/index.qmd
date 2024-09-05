@@ -1,0 +1,23 @@
+---
+title: |-
+  The engaged university: providing a platform for research that
+                 transforms society
+date: '2010-01-01'
+author:
+- name: Ali Whitmer
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: ""
+pub-info:
+  reference: 'Whitmer, A., Ogden, L., Lawton, J., Sturner, P., Groffman, P. M., Schneider, L., Hart, D., Halpern, B., Schlesinger, W., Raciti, S., Bettez, N., Ortega, S., Rustad, L., Pickett, S. T. A., &amp; Killilea, M. (2010). The engaged university: providing a platform for research that transforms society. <em>Frontiers in Ecology and the Environment</em>, <em>8</em>(6), 314&ndash;321.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1890/090241
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

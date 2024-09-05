@@ -1,0 +1,28 @@
+---
+title: |-
+  Fern (pteridium aquilinum ({L}.) Kuhn) Invasion in Southern
+                Yucatan Peninsular Region: A case for Land Change Science
+date: '2004-01-01'
+author:
+- name:
+  - L Schneider
+  - C Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Yucatan
+  - Invasive species
+  - Pteridium
+pub-info:
+  reference: 'Schneider, L. C. (2004). Fern (pteridium aquilinum (L.) Kuhn) Invasion in Southern Yucatan Peninsular Region: A case for Land Change Science. <em>Geographical Review</em>, <em>94</em>(2), 229&ndash;241.'
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

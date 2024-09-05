@@ -1,0 +1,27 @@
+---
+title: |-
+  Assessing carbon sequestration of silvopastoral tropical
+                 landscapes using optical remote sensing and field measurements
+date: '2018-01-01'
+author:
+- name:
+  - Laura Schneider
+  - C Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Silvopastoral
+  - Climate change
+pub-info:
+  reference: 'Schneider, L. C., Lerner, A. M., McGroddy, M., &amp; Rudel, T. (2018). Assessing carbon sequestration of silvopastoral tropical landscapes using optical remote sensing and field measurements. <em>Journal of Land Use Science</em>, <em>13</em>(5), 455&ndash;472.'
+  links:
+  - name: Final version
+    url: https://doi.org/10.1080/1747423X.2018.1542463
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

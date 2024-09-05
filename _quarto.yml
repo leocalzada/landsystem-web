@@ -1,0 +1,81 @@
+project:
+  type: website
+
+  preview: 
+    port: 5555
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!etc/"
+
+  resources:
+    - "files/**"
+    - "etc/**"
+
+
+freeze: true
+
+bibliography: files/bib/references.bib
+csl: files/bib/chicago-author-date.csl
+
+# Metadata stuff
+pagetitle: "Rutgers | Land System Science"
+author-meta: "Laura Schneider"
+
+website:
+  title: "RUTGERS LAND SYSTEMS SCIENCE"
+  description: ""
+  favicon: "/files/favicon.ico"
+  site-url: ""
+  repo-url: ""
+
+  google-analytics: ""
+  
+  navbar:
+    pinned: true
+
+    left:
+      - text: "Home"
+        href: "index.qmd"
+      - text: "People"
+        href: people/index.qmd
+      - text: "Projects"
+        href: "teaching/index.qmd"
+      - text: "Publications"
+        file: research/index.qmd
+      - text: "News"
+        file: news/index.qmd
+      - text: "Contact"
+        href: contact/index.qmd
+    
+    right:
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: "mailto:aheiss@gsu.edu"
+  
+  page-footer:
+    left: |
+      <span class="faux-block">Rutgers University | Laura Schneider</span>
+      <span class="faux-block">Copyright ©2024, [Rutgers University](http://rutgers.edu/)</span>      
+    center: |
+    # <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
+
+format:
+  html:
+    theme: 
+      - html/ath.scss
+    grid: 
+      body-width: 900px
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai

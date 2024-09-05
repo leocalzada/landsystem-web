@@ -1,0 +1,25 @@
+---
+title: |-
+  Temporal dynamics and spatial scales: Modeling deforestation in
+                 the southern Yucatán peninsular region
+date: '2004-01-01'
+author:
+- name: Jacqueline Geoghegan
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Deforestation
+  - Yucatan
+pub-info:
+  reference: 'Geoghegan, J., Schneider, L., &amp; Vance, C. (2004). Temporal dynamics and spatial scales: Modeling deforestation in the southern Yucat&aacute;n peninsular region. <em>GeoJournal</em>, <em>61</em>(4), 353&ndash;363.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1007/s10708-004-5052-x
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

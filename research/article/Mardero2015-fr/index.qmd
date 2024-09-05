@@ -1,0 +1,27 @@
+---
+title: |-
+  Smallholders’ adaptations to droughts and climatic variability in
+                 southeastern Mexico
+date: '2015-01-01'
+author:
+- name: S Mardero
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Smallholders
+  - Agrarian communities
+  - Climate change
+  - Mexico
+pub-info:
+  reference: 'Mardero, S., Schmook, B., Radel, C., Christman, Z., Lawrence, D., Millones, M., Nickl, E., Rogan, J., &amp; Schneider, L. (2015). Smallholders&rsquo; adaptations to droughts and climatic variability in southeastern Mexico. <em>Environmental Hazards</em>, <em>14</em>(4), 271&ndash;288.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1080/17477891.2015.1058741
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

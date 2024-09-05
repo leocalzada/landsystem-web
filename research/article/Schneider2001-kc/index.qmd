@@ -1,0 +1,27 @@
+---
+title: |-
+  Method for spatially explicit calculations of potential biomass
+                 yields and assessment of land availability for biomass energy
+                 production in Northeastern Brazil
+date: '2001-01-01'
+author:
+- name: L Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Brazil
+  - Biomass
+  - Tropical forest
+pub-info:
+  reference: 'Schneider, L. (2001). Method for spatially explicit calculations of potential biomass yields and assessment of land availability for biomass energy production in Northeastern Brazil. <em>Agriculture, Ecosystems &amp; Environment</em>, <em>84</em>(3), 207&ndash;226.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1016/s0167-8809(00)00242-5
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

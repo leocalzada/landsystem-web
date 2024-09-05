@@ -1,0 +1,26 @@
+---
+title: |-
+  Hurricane Disturbance Mapping using {MODIS} {EVI} Data in the
+                South-Eastern Yucatán
+date: '2011-01-01'
+author:
+- name: J Rogan
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - MODIS
+  - Hurricane
+  - Yucatan
+pub-info:
+  reference: 'Rogan, J., Schneider, L., Christman, Z., Millones, M., Lawrence, D., &amp; Schmook, B. (2011). Hurricane Disturbance Mapping using MODIS EVI Data in the South-Eastern Yucat&aacute;n. <em>Remote Sensing Letters</em>, <em>2</em>(3), 259&ndash;267.'
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,27 @@
+---
+title: |-
+  Relación de huracanes e incendios en bosques fragmentados de la región sur de la península de Yucatán, México: ejemplo de las sinergias en sistemas socio-ecológicos
+date: 2016-01-01
+author:
+- name:
+  - Schneider Laura
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - 'Fires'
+  - 'Tropical forest'
+  - 'Hurricanes'
+  - 'Yucatan'
+pub-info:
+  reference: "Schneider, L. C., Rogan, J., & Schmook, B. (2016). Relación de huracanes e incendios en bosques fragmentados de la región sur de la península de Yucatán, México: ejemplo de las sinergias en sistemas socio-ecológicos. In J. C. Postigo & K. R. Young (Eds.), Naturaleza y sociedad: Perspectivas socio-ecológicas sobre cambios globales en América Latina. IEP;  INTE-PUCP."
+  links:
+  - name: Final version
+    url: 'https://fondoeditorial.iep.org.pe/producto/naturaleza-y-sociedad-perspectivas-socio-ecologicas-sobre-cambios-globales-en-america-latina/'
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

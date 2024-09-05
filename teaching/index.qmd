@@ -1,0 +1,15 @@
+---
+title: "Projects"
+listing:
+  - id: projects
+    contents: ay_24-25.yml
+    sort: "date desc"
+    template: ../html/teaching/listing.ejs
+title-block-banner: "#e3123c"
+page-layout: full
+toc: false
+---
+
+:::{#projects}
+:::
+

@@ -1,0 +1,29 @@
+---
+title: |-
+  Spatially Explicit, Statistical Land-Change Models in Data-Poor
+                 Conditions. In Integrated Land- Change Science and Tropical
+                 Deforestation in the Southern Yucatán: Final Frontiers
+date: 2004-01-01
+author:
+- name: J Geoghegan
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Frontiers
+  - Yucatan
+  - Land change
+  - Tropical forest
+  - Deforestation
+pub-info:
+  reference: "Geoghegan J, Schneider  L and Vance C. (2004). Spatially Explicit, Statistical Land‐Change Models in Data‐Poor Conditions. In Integrated Land‐ Change Science and Tropical Deforestation in the Southern Yucatán: Final Frontiers. B.L. Turner II, J. Geoghegan, and D. Foster, eds. Oxford Geographical and Environmental Studies. Clarendon Press of Oxford University Press, pp 247‐ 269."
+  links:
+  - name: Final version
+    url: 'https://doi.org/10.1093/oso/9780199245307.003.0023'
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

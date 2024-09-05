@@ -1,0 +1,26 @@
+---
+title: |-
+  Untangling a global decline in tropical forest resilience:
+                constraints on the sustainability of shifting cultivation
+date: '2010-01-01'
+author:
+- name: D Lawrence
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Tropical forest
+  - Resilience
+  - Fallow
+pub-info:
+  reference: 'Lawrence, D., Tully, K., Radel, C., Schmook, B., &amp; Schneider, L. C. (2010). Untangling a global decline in tropical forest resilience: constraints on the sustainability of shifting cultivation. <em>Biotropica</em>, <em>42</em>(1), 21&ndash;30.'
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

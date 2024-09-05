@@ -1,0 +1,26 @@
+---
+title: |-
+  Agricultural intensification and changes in cultivated areas,
+                 1970-2005
+date: '2009-01-01'
+author:
+- name:
+  - Thomas Rudel
+  - K Rudel
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Intensification
+pub-info:
+  reference: 'Rudel, T. K., Schneider, L., Uriarte, M., Turner, B. L., 2nd, DeFries, R., Lawrence, D., Geoghegan, J., Hecht, S., Ickowitz, A., Lambin, E. F., Birkenholtz, T., Baptista, S., &amp; Grau, R. (2009). Agricultural intensification and changes in cultivated areas, 1970-2005. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>106</em>(49), 20675&ndash;20680.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1073/pnas.0812540106
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

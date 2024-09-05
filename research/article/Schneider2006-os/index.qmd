@@ -1,0 +1,30 @@
+---
+title: |-
+  Invasive species and land-use: The effect of land management
+                 practices on bracken fern invasion in the region of calakmul,
+                 Mexico
+date: '2006-01-01'
+author:
+- name:
+  - Laura Schneider
+  - C Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Invasive species
+  - Land use
+  - Mexico
+  - Smallholders
+pub-info:
+  reference: 'Schneider, L. C. (2006). Invasive species and land-use: The effect of land management practices on bracken fern invasion in the region of calakmul, Mexico. <em>Journal of Latin American Geography</em>, <em>5</em>(2), 92&ndash;107.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1353/lag.2006.0028
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

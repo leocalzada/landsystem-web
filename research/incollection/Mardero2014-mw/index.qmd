@@ -1,0 +1,28 @@
+---
+title: |-
+  Precipitation variability and adaptation strategies in the
+                 southern Yucatán peninsula, Mexico: Integrating local knowledge
+                 with quantitative analysis
+date: 2014-01-01
+author:
+- name: Sofía Márdero
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Yucatan
+  - Local Knowledge
+  - Climate change
+pub-info:
+  reference: |-
+    Mardero S, Schmook B, Christman Z, Nickl E, Schneider L, Rogan J and Lawrence D. (2014). Precipitation Variability and Adaptation Strategies in the Southern Yucatán Peninsula, Mexico: Integrating Local Knowledge with Quantitative Analysis. In: International Perspectives on Climate Change: Latin American and Beyond.  Springer, pp: 189-201.
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1007/978-3-319-04489-7_13
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

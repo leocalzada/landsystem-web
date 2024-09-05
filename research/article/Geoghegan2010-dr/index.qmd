@@ -1,0 +1,27 @@
+---
+title: |-
+  Accounting for Carbon in Models of Land Use and Implications for
+                Payments for Environmental Services: An Application to Southern
+                Yucatán Peninsula Region
+date: '2010-01-01'
+author:
+- name: J Geoghegan
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - PES
+  - Land Use
+  - Yucatan
+pub-info:
+  reference: 'Geoghegan, J., Lawrence, D., Schneider, L., &amp; Tully, K. (2010). Accounting for Carbon in Models of Land Use and Implications for Payments for Environmental Services: An Application to Southern Yucat&aacute;n Peninsula Region. <em>Regional Environmental Change</em>, <em>10</em>(3), 247&ndash;260.'
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

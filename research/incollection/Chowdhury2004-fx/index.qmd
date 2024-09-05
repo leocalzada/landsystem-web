@@ -1,0 +1,41 @@
+---
+title: |-
+  Land Cover and Land Use: Classification and Change Analysis
+date: 2004-01-01
+author:
+- name: Roy Chowdhury
+  url: ''
+  orcid: ''
+  affiliation: ''
+- name: Laura Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+- name: Yelena Ogneva-Himmelberger
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - 'Arboreal forest'
+  - 'Divergence'
+  - 'Fallow'
+  - 'Grassland'
+  - 'Haze removal'
+  - 'Logging'
+  - 'Shrub-dominated forest'
+pub-info:
+  reference: "Chowdhury R, Schneider L, Ogneva-Himmelberger Y, and Others. (2004).'Land Cover and Land Use: Classification and Change Analysis', in B L Turner II, Jacqueline Geoghegan, and David R Foster (eds), Integrated Land-Change Science and Tropical Deforestation in the Southern Yucatan: Final Frontiers. Oxford University Press."
+  links:
+  - name: Final version
+    url: 'https://academic.oup.com/book/40626'
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---
+
+## Abstract
+
+Despite its international designation as a hotspot of biodiversity and tropical deforestation (Achard et al. 1988), the micro-scale land-cover mapping of southern Yucatán peninsular region remains surprisingly incomplete, hindering various kinds of research, including that proposed in the SYPR project. This chapter details the methodology for the thematic classification and change detection of land use and cover in the tropical sub-humid environment of the region. A hybrid approach using principal components and texture analyses of Landsat TM data enabled the distinction of land-cover classes at the local scale, including mature and secondary forest, savannas, and cropland/pasture. Results indicate that texture analysis increases the statistical separability of cover class signatures, the magnitude of improvement varying among pairs of land-cover classes. At a local level, the availability of exhaustive training site data over recent history (10–13 years) in a repository of highly detailed land-use sketch maps allows the distinction of greater numbers of land-cover classes, including three successional stages of vegetation. At the regional scale, finely detailed land-cover classes are aggregated for greater ability to generalize in a terrain wherein vegetation exhibits marked regional and seasonal variation in intra-class spectral properties. Post-classification change detection identifies the quantities and spatial pattern of major land-cover changes in a ten-year period in the region. Change analysis results indicate an average annual rate of deforestation of 0.4 per cent, with much regional variation and most change located at three subregional hotspots. Deforestation as well as successional regrowth is highest in a southern hotspot located in the newly colonized southern part of the region, an area where commercial chili production is large. The objectives of this chapter are to describe and evaluate: (1) an experimental methodology that iteratively combines three suites of image-processing techniques (PCA, texture transformation, and NDVI); (2) the statistical separability of distinct land-cover signatures; and (3) a post-classification change detection for the region from 1987 to 1997 in order to derive regional deforestation rates, and identify the spatial pattern of deforestation and secondary forest succession. Specifically, a region encompassing 18,700km2 (those land units completely within the defined region; Fig. 7.1) was mapped using a maximum likelihood supervised classification of lower-order principal components of Landsat TM imagery after tasseled-cap and texture transformations.

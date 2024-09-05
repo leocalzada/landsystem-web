@@ -1,0 +1,46 @@
+---
+title: &TITLE Leonardo Calzada
+last: Calzada
+first: Leonardo
+people_group: "gradstudent"
+email: "leonardo.calzada.rutgers.edu"
+education:
+  - Department of Geography | Rutgers University
+subtitle: "Graduate student"
+description: ""
+project: "dmref"
+affiliation: Rutgers University
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:leonardo.calzada@rutgers.edu
+    - text: Google Scholar
+      icon: mortarboard 
+      href: https://scholar.google.com/citations?user=voVedNAAAAAJ&hl=en
+cv:
+  pdf: "LC_CV.pdf"
+---
+
+<hr>
+
+
+:::{#about}
+
+
+
+## Affiliation
+
+{{< meta education >}}
+
+<br>
+
+:::
+
+

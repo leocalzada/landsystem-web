@@ -1,0 +1,27 @@
+---
+title: |-
+  Land-use change model validation by a {ROC} method for the Ipswich
+                watershed
+date: '2001-01-01'
+author:
+- name:
+  - R Pontius
+  - G Pontius
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Land use
+  - ROC
+pub-info:
+  reference: 'Pontius, R. G., &amp; Schneider, L. C. (2001). Land-use change model validation by a ROC method for the Ipswich watershed. <em>Ecosystems &amp; Environment</em>, <em>85</em>(1&ndash;3), 239&ndash;248.'
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

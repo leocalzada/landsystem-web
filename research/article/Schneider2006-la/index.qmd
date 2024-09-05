@@ -1,0 +1,28 @@
+---
+title: |-
+   Land abandonment in an agricultural frontier after a plant invasion: The case of bracken fern in southern Yucatán
+date: '2006-01-01'
+author:
+- name:
+  - Laura Schneider
+  - C Schneider
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Invasive species
+  - Land use
+  - Frontier
+  - Yucatan
+pub-info:
+  reference: 'Schneider, L., &amp; Geoghegan, J. (2006). Land abandonment in an agricultural frontier after a plant invasion: The case of bracken fern in southern Yucat&aacute;n, Mexico. <em>Agricultural and Resource Economics Review</em>, <em>35</em>(1), 167&ndash;177.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1353/lag.2006.0028
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

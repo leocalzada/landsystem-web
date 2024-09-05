@@ -1,0 +1,25 @@
+---
+title: |-
+  Droughts in the Southern Yucatán Peninsula: Analysis of the annual
+                and seasonal precipitation variability
+date: '2012-01-01'
+author:
+- name: S Márdero
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Droughts
+  - Yucatan
+pub-info:
+  reference: 'Mardero, S., Nickl, E., Schmook, B., Schneider, L., Rogan, J., Christman, Z., &amp; Lawrence, D. (2012). Droughts in the Southern Yucat&aacute;n Peninsula: Analysis of the annual and seasonal precipitation variability. <em>Investigaciones Geogr&aacute;ficas</em>, <em>78</em>, 19&ndash;33.'
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

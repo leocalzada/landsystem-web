@@ -1,0 +1,27 @@
+---
+title: |-
+  Identifying Drivers and Spatial Pattern of Deforestation in a
+                Strategic Watershed, Rio Grande Basin (Colombian Andes)
+date: '2018-01-01'
+author:
+- name:
+  - C Ramirez
+  - D Ramirez
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Colombia
+  - Deforestation
+pub-info:
+  reference: 'Ramirez, C. D., Orrego, S. A., &amp; Schneider, L. (2018). Identifying Drivers and Spatial Pattern of Deforestation in a Strategic Watershed, Rio Grande Basin (Colombian Andes). <em>Journal of Latin American Geography</em>, <em>17</em>(1).'
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

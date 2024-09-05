@@ -1,0 +1,74 @@
+---
+title: &TITLE Laura Schnieder
+last: Schneider
+first: Laura
+people_group: "pi"
+email: "laschnei@geography.rutgers.edu"
+education:
+  - Department of Geography | Rutgers University
+subtitle: "Professor and Graduate Program Director"
+description: ""
+project: "dmref"
+affiliation: Rutgers University
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:laschnei@geography.rutgers.edu 
+    - text: Google Scholar
+      icon: mortarboard 
+      href: https://scholar.google.com/citations?user=RcAWFTsAAAAJ&hl=en
+cv:
+  pdf: "Laura_Schneider_CV_Aug2021.pdf"
+---
+
+<hr>
+
+
+:::{#about}
+
+I am a geographer whose research intersects the fields of land systems science and biogeography. My research emerges from a strong background in human-environment geography, tropical ecology and remote sensing. My work examines how and why tropical landscapes are transformed, assessing the socio-ecological drivers and implications on landscape spatial configurations. My research examines theoretical and methodological ways of linking remotely sensed data with biophysical and socioeconomic data in order to understand landscape dynamics in the tropics.
+
+## Affiliation
+{{< meta education >}}
+
+<br>
+
+:::
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
+  </a>
+</p>
+```
+
+## Selected Publications
+
+Armenteras, D., L. Schneider and L. Davalos. 2019. Fires in protected areas reveal unforeseen costs for Colombian peace. Nature Ecology and Evolution, https://rdcu.be/bb0aX
+
+Schneider, L., A. Lerner, M. McGroody and T. Rudel. 2018. Assessing the provision of ecosystem services by silvopastoral landscapes: estimating above ground carbon in Ecuadorian Amazonian silvopastoral farms using optical remote sensing and field measurements. Journal of Land Use Science/ https://doi.org/10.1080/1747423X.2018.1542463
+
+Ramirez, C. D., Orrego S. A. and L. Schneider. 2018. Identifying Drivers and Spatial Pattern of Deforestation in a Strategic Watershed, Rio Grande Basin (Colombian Andes). Journal of Latin American Geography, 17(1):108-138.
+
+Rudel, T., B. Paul., D. White, I.M. Rao, R. Van Der Hoek, A. Castro, M. Boval, A. Lerner, L. Schneider and M. Peters. LivestockPlus: Forages, sustainable intensification, and food security in the tropics. AMBIO, DOI 10.1007/s13280-015-0676-2
+
+McGroody, Lerner, A, D. Burbano  L. Schneider and T. Rudel. Carbon Stocks in Silvopastoral Systems: A Study from Four Communities in Southeastern Ecuador. Biotropica 47 (4) 407-415.
+
+Lerner, A., T. Rudel, L. Schneider, M. McGroddy, D. Burbano and C. Mena. The spontaneous emergence of silvo-pastoral landscapes in the Ecuadorian Amazon: patterns and process. 2015. Regional Environmental Change 15 (7): 1421-1431
+
+McGroody, M., D. Lawrence, L. Schneider, J. Rogan, I. Zager and B. Schmook. 2013. Damage patterns after Hurricane Dean in the southern Yucatán: Has human activity resulted in more resistant forests. Forest Ecology and Management. 310, 812-820
+
+Márdero S., Nickl E. , Schmook B., Schneider  L. , Rogan J., Christman  Z. and Lawrence D.  2012.  Sequías en el Sur de la Península de Yucatán: Análisis de la variabilidad anual y estacional de la precipitación/ Droughts in the Southern Yucatán Peninsula: Analysis of the annual and seasonal precipitation variability. Investigaciones Geográficas. 78:19-33.
+
+Vandecar, K., D. Lawrence, D. Richards, L. Schneider, J. Rogan and B. Schmook. 2011. Response of dry tropical forest to Hurricane Dean in the southern Yucatán Peninsula: Species-level impacts. Biotropica. 43(6):676-684.
+
+Rogan J., L. Schneider, Z. Christman, M. Millones, D. Lawrence and B. Schmook. 2011. Hurricane Disturbance Mapping using MODIS EVI Data in the South-Eastern Yucatán, Mexico.  Remote Sensing Letters 2(3): 259-267
+
+Schneider L.C. and N. Fernando. An untidy cover: Invasion of Bracken Fern in the shifting cultivation systems of Southern Yucatán, Mexico. Biotropica 42(1): 41-48.

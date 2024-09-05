@@ -1,0 +1,35 @@
+---
+title: "Research"
+listing:
+  - id: articles
+    contents: "article/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: book-chapters
+    contents: "incollection/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+  - id: reviews
+    contents: "reviews/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+Check our last publications
+
+## Journal articles
+
+:::{#articles}
+:::
+
+
+
+## Book chapters
+
+:::{#book-chapters}
+:::
+

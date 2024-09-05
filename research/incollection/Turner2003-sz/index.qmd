@@ -1,0 +1,23 @@
+---
+title: |-
+  Three Millennia in the Southern Yucatán Peninsular Region:
+                 Implications for Occupancy, Use, and “Carrying Capacity”
+date: 2003-01-01
+author:
+- name:
+  - B Turner
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Yucatan
+  - Carrying capacity
+pub-info:
+  reference: "Turner II B L, Klepeis P and Schneider L. (2003). Three Millennia in the Southern Yucatán Peninsular Region: Implications for Occupancy, Use, and “Carrying Capacity”. In Lowland Maya Area: Three Millennia at the Human‐ Wildland Interface. A. GómezPompa, M. Allen, S. Fedick, and J. Jimenez‐ Osornio, eds. New York: The Haworth Press, pp. 361‐387."
+  links:
+haiku:
+- ''
+- ''
+- ''
+
+---

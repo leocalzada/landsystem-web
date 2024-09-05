@@ -1,0 +1,25 @@
+---
+title: 'Forest transitions: An introduction'
+date: '2010-01-01'
+author:
+- name:
+  - Thomas Rudel
+  - K Rudel
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories:
+  - Forest transition
+  - Land change
+pub-info:
+  reference: 'Rudel, T. K., Schneider, L., &amp; Uriarte, M. (2010). Forest transitions: An introduction. <em>Land Use Policy</em>, <em>27</em>(2), 95&ndash;97.'
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1016/j.landusepol.2009.09.021
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---
