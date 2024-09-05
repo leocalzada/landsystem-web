@@ -1,0 +1,66 @@
+[
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/schneider-laura/index.html",
+      "/people/calzada-leonardo/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/article/Rudel2020-ld/index.html",
+      "/research/article/Armenteras2019-hh/index.html",
+      "/research/article/Ramirez2018-aq/index.html",
+      "/research/article/Schneider2018-tv/index.html",
+      "/research/article/Turner2016-qf/index.html",
+      "/research/article/Lerner2015-hf/index.html",
+      "/research/article/Mardero2015-fr/index.html",
+      "/research/article/McGroddy2015-he/index.html",
+      "/research/article/Rudel2015-cz/index.html",
+      "/research/article/Cheng2013-oa/index.html",
+      "/research/article/Cuba2013-hj/index.html",
+      "/research/article/McGroddy2013-qo/index.html",
+      "/research/article/Rossi2013-sg/index.html",
+      "/research/article/Mardero2012-tx/index.html",
+      "/research/article/Neeti2012-ad/index.html",
+      "/research/article/Rogan2011-cf/index.html",
+      "/research/article/Vandecar2011-mv/index.html",
+      "/research/article/Geoghegan2010-dr/index.html",
+      "/research/article/Lawrence2010-ab/index.html",
+      "/research/article/Rudel2010-ou/index.html",
+      "/research/article/Schneider2010-vj/index.html",
+      "/research/article/Uriarte2010-mr/index.html",
+      "/research/article/Whitmer2010-tj/index.html",
+      "/research/article/Rudel2009-eu/index.html",
+      "/research/article/Schneider2006-la/index.html",
+      "/research/article/Schneider2006-os/index.html",
+      "/research/article/Geoghegan2004-wi/index.html",
+      "/research/article/Schneider2004-yh/index.html",
+      "/research/article/Pontius2001-kf/index.html",
+      "/research/article/Schneider2001-kc/index.html",
+      "/research/article/Schneider2001-mz/index.html",
+      "/research/article/Turner2001-rs/index.html",
+      "/research/incollection/Schneider2016-om/index.html",
+      "/research/incollection/Mardero2014-mw/index.html",
+      "/research/incollection/Schneider2008/index.html",
+      "/research/incollection/Chowdhury2004-fx/index.html",
+      "/research/incollection/Geoghegan2004-hf/index.html",
+      "/research/incollection/Sader2004-jy/index.html",
+      "/research/incollection/Turner2003-sz/index.html",
+      "/research/incollection/Vadjunec2002-ql/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": []
+  }
+]
