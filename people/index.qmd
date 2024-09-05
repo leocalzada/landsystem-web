@@ -37,6 +37,7 @@ listing:
   #   type: grid
   #   fields: [title, subtitle, image, education, altsubtitle, alteducation]
 page-layout: full
+title-block-banner: "#e3123c"
 ---
 
 

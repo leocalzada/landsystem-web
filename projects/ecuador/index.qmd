@@ -1,0 +1,34 @@
+---
+title: "Spontaneous Silvo-Pastoral Landscapes: Patterns and Processes in the Ecuadorian Amazon"
+---
+```{=html}
+<div class="back-nav"><a href="/projects/">← Back to Projects</a></div>
+```
+
+:::{.column-page}
+
+With the continuing decline in the global extent of tropical forests, agriculture dominated landscapes now cover ~50% of the tropical biome. In this context our ability to understand and influence tropical biodiversity depends in large part on our understanding of actively managed landscapes. Given that pastures cover most agricultural lands in the Neotropics, significant changes in their biodiversity, like the emergence of more trees, represent a potentially important development. The numbers of trees in pastures in the Ecuadorian Amazon appear to have increased during the past two decades, at least on some cattle ranches.
+
+::: {.grid}
+::: {.g-col-6 .center-text}
+![With Trees](withtrees_orig.jpg)
+
+
+:::
+::: {.g-col-6}
+![Without Trees](withouttrees_orig.jpg)
+
+
+:::
+:::
+
+To explain this shift in pasture management, we have studied 100 small farms, both mestizo and Shuar, in a predominantly cattle ranching region in southern Ecuador Amazon. Changes in the composition of ranching households, variations in distance to seed sources, and differences in soil qualities all, potentially, play a role in these landscape changes. If confirmed, these patterns would outline, in yet another context, the ecology of small-scale sustainable agriculture. These changes also have implications for who benefits from the implementation of REDD+ policies in Ecuador during the next five years. More specifically, this study explores the possibility that small scale cattle ranchers could benefit from payments for environmental services, in particular payments for carbon sequestration
+
+::: {layout-valign="center"}
+![](objects.png)
+:::
+:::
+
+## Project Support
+
+![](nsf.png)
