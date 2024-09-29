@@ -4,8 +4,15 @@
     "items": []
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/projects/index.html",
     "items": []
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/schneider-laura/index.html",
+      "/people/calzada-leonardo/index.html"
+    ]
   },
   {
     "listing": "/research/index.html",
@@ -53,14 +60,7 @@
     ]
   },
   {
-    "listing": "/people/index.html",
-    "items": [
-      "/people/schneider-laura/index.html",
-      "/people/calzada-leonardo/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/index.html",
+    "listing": "/news/index.html",
     "items": []
   }
 ]

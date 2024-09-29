@@ -54,7 +54,22 @@ website:
     
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
-        href: "mailto:aheiss@gsu.edu"
+        href: "laschnei@geography.rutgers.edu"
+        
+  sidebar:
+    - id: yuc-territory
+      title: "Territorial Dynamics in the Calakmul Sian Ka'an Corridor"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - projects/territorial/index.qmd
+        - text: "About the Team"
+          href: projects/territorial/about/
+        - text: "Our work"
+          href: projects/territorial/our_work/
+        - text: "Contact"
+          href: projects/territorial/contact/
   
   page-footer:
     left: |

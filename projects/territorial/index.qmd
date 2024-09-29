@@ -1,0 +1,100 @@
+---
+title: "Territorial Dynamics"
+subtitle: "in Calakmul-Sian Kaan corridor"
+page-layout: full
+toc: false
+format:
+  html:
+    theme: slate
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+        font-size: 3em;
+        margin-bottom: 0;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(flores_mag.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 400px;
+      }
+      </style>
+---
+::: {.center-text .column-page-right}
+```{=html}
+<header class="hero">
+  <div class="center-content">
+    <h1>Territorial Shifts in southern Yucatan</h1>
+    <h3>The research project Territorial dynamics in the Calakmul-Sian Ka'an corridor is inserted in a key moment of possible transformation in the territory, therefore, the project seeks to understand how the territories evolve and have evolved in the face of development interventions, public policies, infrastructure, changes in land tenure regime and how these dynamics shape and affect the landscapes and changes and land use. Understanding the legacies and their link to current dynamics, gives the possibility to reflect on possible future paths and possibilities to cope with current transformations.<br><br> Our research group is a multidisciplinary team that comprises  undergraduate and graduate students (MA and PhD), as well as scholars from: Universidad Nacional Autónoma de México, and the Rutgers University.</h3>
+    <a href="#" class="button">About Us</a>
+  </div>
+</header>
+```
+:::
+
+::: {.center-content .column-page-right}
+
+## Collaborating institutions{.center-text}
+::: {.tool layout-ncol=3}
+
+<a href="https://www.rutgers.edu/" role="button" class="btn btn-outline-light">
+![](images/rutgers.png){width="200" fig-alt="rutgers"}Rutgers University
+</a>
+
+<a href="https://www.fciencias.unam.mx/" role="button" class="btn btn-outline-light">
+![](images/ciencias.png){width="77" fig-alt="ciencias unam"}Faculty of Science|UNAM
+</a>
+
+<a href="https://www.ecologia.unam.mx/web2/index.php/es/" role="button" class="btn btn-outline-light">
+![](images/eco.png){width="77" fig-alt="eco unam"}Instituto de Ecología|UNAM
+</a>
+:::
+:::
+
+
+::: {.column-page-right .white-text .center-content .center-text}
+:::: {style="background-color: #126B5C"}
+## Our Work 
+
+#### Explore details of the project{.center-text}
+
+::: {.white-text .tool layout-ncol=3}
+<a href="our_work/" role="button" class="btn btn-outline-light">
+![](images/project.png){width="77" fig-alt="VS Code logo."}Project
+</a>
+
+<a href="../../research" role="button" class="btn btn-outline-light">
+![](images/publications.png){width="77" fig-alt="Jupyter logo."}Publications
+</a>
+
+<a href="about/" role="button" class="btn btn-outline-light">
+![](images/team.png){width="77" fig-alt="RStudio logo."}Research Group
+</a>
+
+:::
+::::
+:::
+
+
+<!---------------- START blog listing section (white div) ---------------->
+::: {.column-page-right .center-text}
+::: {.red-underline}
+# **FROM OUR BLOG & NEWS**
+
+<br>
+:::
+Our blog and news section shares stories from our research activities. See the recent posts below or browse our [full blog listing](../../news/index.qmd).
+
+<br>
+
+::: {#recent-blog-listing}
+:::
+
+:::
