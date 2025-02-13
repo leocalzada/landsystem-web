@@ -141,33 +141,57 @@
   align-items: center;
   margin: auto;
 }
-
-.center-content h1,
-.center-content h3 {
-  color: white;
-  line-height: 1;
+h2, h3 {
+    color: white;
+    margin-top: 20px;
 }
 
-.center-content h1 {
-  text-transform: uppercase;
-  font-size: 1.5em;
-  margin-bottom: 4;
-  margin-right: 20px;
-  margin-left: 20px;
-  text-align: center;
+p {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.2em;
 }
 
-.center-content h3 {
-  margin-bottom: 40px;
-  font-size: 1.2em;
-  margin-right: 40px;
-  margin-left: 40px;
-  font-weight: normal;
+section {
+    padding: 50px 20px;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.collaborating-institutions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.institution-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.institution-logo {
+    width: 100%;
+    height: 100px;
+    object-fit: contain;
+}
+
+.institution-text {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: black;
 }
 
 .button {
   text-transform: uppercase;
-  color: white;
+  color: black;
   padding: 20px;
   margin-bottom: 40px;
   border: 1px solid white;

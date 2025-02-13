@@ -25,9 +25,7 @@ listing:
     sort: "date desc"
     template: ../html/blog/listing.ejs
   - id: posts_2019
-    contents: 
-      - "2019/**/index.qmd"
-      - "2019/**/index.md"
+    contents: "2019/**/index.qmd"
     sort: "date desc"
     template: ../html/blog/listing.ejs
 page-layout: full
