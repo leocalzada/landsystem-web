@@ -15,7 +15,9 @@ project:
   resources:
     - "files/**"
     - "etc/**"
-
+  
+execute:
+  freeze: auto
 
 freeze: true
 
