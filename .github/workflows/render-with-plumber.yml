@@ -22,9 +22,14 @@ jobs:
         sudo dpkg -i quarto-linux-amd64.deb
         quarto check install
 
+    - name: Install System Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libcurl4-openssl-dev
+
     - name: Install R Packages
       run: |
-        R -e 'install.packages(c("plumber", "quarto"), repos="https://cloud.r-project.org")'
+        R -e 'install.packages(c("plumber", "quarto", "leaflet", "rmarkdown", "sessioninfo", "renv", "here", "knitr", "RefManageR", "stringr", "yaml"), repos="https://cloud.r-project.org")'
 
     - name: Render Quarto Website
       run: |
