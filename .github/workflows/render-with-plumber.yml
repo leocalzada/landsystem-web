@@ -25,12 +25,12 @@ jobs:
     - name: Install System Dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y libcurl4-openssl-dev libsodium-dev libpng-dev
+        sudo apt-get install -y libcurl4-openssl-dev libsodium-dev libpng-dev libgdal-dev libproj-dev libgeos-dev
         sudo ldconfig
 
     - name: Install R Packages
       run: |
-        R -e 'install.packages(c("plumber", "quarto", "leaflet", "rmarkdown", "sessioninfo", "renv", "here", "knitr", "RefManageR", "stringr", "yaml"), repos="https://cloud.r-project.org")'
+        R -e 'install.packages(c("plumber", "quarto", "leaflet", "rmarkdown", "sessioninfo", "renv", "here", "knitr", "RefManageR", "stringr", "yaml", "terra"), repos="https://cloud.r-project.org")'
 
     - name: Render Quarto Website
       run: |
