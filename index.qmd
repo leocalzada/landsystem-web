@@ -40,7 +40,9 @@ listing:
 # **Welcome to the Land Systems Science Research Group**
 :::
 ### Rutgers University
+
 #### Department of Geography
+
 ---
 :::
 <!---------------------------------------------------------------------->

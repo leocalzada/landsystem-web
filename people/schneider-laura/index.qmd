@@ -1,5 +1,5 @@
 ---
-title: &TITLE Laura Schnieder
+title: &TITLE Laura Schneider
 last: Schneider
 first: Laura
 people_group: "pi"

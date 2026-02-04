@@ -18,6 +18,8 @@ project:
   
 execute:
   freeze: auto
+  echo: true    # Shows code in output
+  message: true
 
 freeze: true
 
@@ -90,7 +92,7 @@ format:
     grid: 
       body-width: 900px
     toc: false
-    code-link: true
+    code-link: false
     anchor-sections: true
     fig-cap-location: margin
     reference-location: margin
